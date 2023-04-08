@@ -1,4 +1,4 @@
-## Wekipedia Toxicity Using NLP and Supervised machine learning algorithm(SVM)
+## Wikipedia Toxicity Using NLP and Supervised machine learning algorithm(SVM)
  Wekipedia Toxicity Using NLP and Supervised machine learning algorithm(SVM)
 
 
